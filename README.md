@@ -1,5 +1,7 @@
 # IoT-based-home-automation
 
+<img src="wal.jpg" alt="project diagram" width="600" height="300">
+<br>
 Website URL
 
 https://myhomeautom.000webhostapp.com
