@@ -1,6 +1,6 @@
 # IoT-based-home-automation
 
-<img src="wal.jpg" alt="project diagram" width="600" height="300">
+<img src="wal.jpg" alt="project diagram" width="700" height="250">
 <br>
 Website URL
 
